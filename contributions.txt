@@ -1,0 +1,26 @@
+=====================================================
+          REPARTITION DES CONTRIBUTIONS
+=====================================================
+
+Projet : Analyse de performances sportives
+Chef d'équipe : Djovani
+
+-----------------------------------------------------
+CONTRIBUTIONS : DJOVANI (Chef d'équipe)
+-----------------------------------------------------
+- Initialisation et configuration du dépôt Git / GitHub.
+- Mise en place de la structure de répertoires du projet.
+- Création de la hiérarchie orientée objet :
+    * Interface PerformanceEvaluable
+    * Classe abstraite Athlete (implémentant Comparable)
+    * Sous-classes concrètes : AthleteCourse, AthleteLancer
+- Définition de l'exception personnalisée DonneesInvalidesException.
+- Implémentation du module de lecture des données (GestionnaireCSV).
+- Conception du programme principal (Main.java) et gestion globale de l'application.
+- Rédaction du jeu de données de test (competitions.csv avec anomalies).
+
+-----------------------------------------------------
+CONTRIBUTIONS DES COÉQUIPIERS
+-----------------------------------------------------
+- [Nom du coéquipier 1] : [Tâches réalisées, ex: Revue de code, tests unitaires...]
+- [Nom du coéquipier 2] : [Tâches réalisées, ex: Amélioration des affichages, validation des données...]
