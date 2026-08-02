@@ -1,4 +1,5 @@
 import util.GestionnaireCSV;
+import model.Athlete;
 
 import java.util.ArrayList;
 import java.util.Collections;
