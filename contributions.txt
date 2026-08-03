@@ -3,24 +3,27 @@
 =====================================================
 
 Projet : Analyse de performances sportives
-Chef d'équipe : Djovani
+Chef d'équipe : DJOVANI DJIKISSI
+Collaboratrice: BOUSLAH CELIA
 
 -----------------------------------------------------
-CONTRIBUTIONS : DJOVANI (Chef d'équipe)
+CONTRIBUTIONS : DJOVANI DJIKISSI (Chef d'équipe)
 -----------------------------------------------------
 - Initialisation et configuration du dépôt Git / GitHub.
 - Mise en place de la structure de répertoires du projet.
-- Création de la hiérarchie orientée objet :
-    * Interface PerformanceEvaluable
-    * Classe abstraite Athlete (implémentant Comparable)
-    * Sous-classes concrètes : AthleteCourse, AthleteLancer
-- Définition de l'exception personnalisée DonneesInvalidesException.
-- Implémentation du module de lecture des données (GestionnaireCSV).
-- Conception du programme principal (Main.java) et gestion globale de l'application.
-- Rédaction du jeu de données de test (competitions.csv avec anomalies).
+- Développement du modèle orienté objet :
+    * Interface PerformanceEvaluable.java
+    * Classe concrète AthleteCourse.java
+- Implémentation du module de lecture des données (GestionnaireCSV.java).
+- Conception du programme principal (Main.java) et gestion du flux de l'application.
+- Rédaction du README.md global et coordination de l'équipe.
 
 -----------------------------------------------------
-CONTRIBUTIONS DES COÉQUIPIERS
+CONTRIBUTIONS : BOUSLAH CELIA (Développeuse)
 -----------------------------------------------------
-- [Nom du coéquipier 1] : [Tâches réalisées, ex: Revue de code, tests unitaires...]
-- [Nom du coéquipier 2] : [Tâches réalisées, ex: Amélioration des affichages, validation des données...]
+- Architecture du modèle orienté objet :
+    * Classe abstraite de base Athlete.java (implémentant Comparable)
+    * Sous-classe concrète AthleteLancer.java
+- Définition et gestion de l'exception personnalisée DonneesInvalidesException.java.
+- Conception et rédaction du jeu de données de test (Competition.csv avec anomalies).
+- Révisions globales, corrections de bugs, tests et nettoyage du code.
