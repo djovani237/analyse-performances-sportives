@@ -2,8 +2,7 @@ package util;
 import model.Athlete;
 
 import model.AthleteCourse;
-import model.AthleteLancer;
-
+import exception.DonneesInvalidesException;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

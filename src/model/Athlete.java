@@ -1,7 +1,7 @@
 package model;
 
 import java.util.ArrayList;
-
+import exception.DonneesInvalidesException;
 import java.util.List;
 
 public abstract class Athlete implements PerformanceEvaluable, Comparable<Athlete> {
