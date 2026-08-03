@@ -1,7 +1,5 @@
 package model;
 
-import exception.DonneesInvalidesException;
-
 import java.util.ArrayList;
 
 import java.util.List;

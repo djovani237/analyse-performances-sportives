@@ -1,7 +1,6 @@
 package util;
 import model.Athlete;
 
-import exception.DonneesInvalidesException;
 import model.AthleteCourse;
 import model.AthleteLancer;
 
